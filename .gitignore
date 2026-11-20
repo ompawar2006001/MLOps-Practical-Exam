@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+mlruns/
+mlartifacts/
+mlflow.db
+data/*.csv
+feature_store/*.parquet
+feature_store/*.pkl
+feature_store/registry.json
+models/*.pkl
+.pytest_cache/
